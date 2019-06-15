@@ -26,7 +26,7 @@ public class ISpawnerCommand implements CommandExecutor {
         ISpawnerManager isManager = new ISpawnerManager();
         LangManager lm = plugin.getLangManager();
 
-        if(!player.getPlayer().hasPermission("ispawner-give")){
+        if(!player.getPlayer().hasPermission("ispawner.give")){
             player.sendMessage("&cYou do not have access to that command");
             return true;
         }
