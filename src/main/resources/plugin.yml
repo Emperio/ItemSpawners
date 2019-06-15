@@ -1,0 +1,11 @@
+name: PulseCore
+version: ${project.version}
+main: me.emperio.pulsecore.PulseCore
+authors: [Emperio]
+description: PulsePvP's Core
+website: https://emperio.me/
+
+commands:
+  ispawner:
+    description: Ispawner
+    usage: /<command>

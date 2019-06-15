@@ -1,0 +1,10 @@
+lang:
+  insufficient-args-ispawner-give: "&cInsufficient args lol"
+  invalid-material-ispawner: "&cThe material provided is not valid"
+  invalid-tier-ispawner: "&cInvalid tier"
+  invalid-subcommand-ispawner: "Invalid subcommand"
+  no-subcommand-ispawner: "Please specify a sub-command"
+  already-spawner-in-chunk: "Already spawner in chunk"
+  placed-spawner: "You placed a tier {tier} {type} spawner!"
+  mined-spawner: "You mined a tier {tier} {type} spawner!"
+  item-spawner-title: "&b&lITEM SPAWNER"
